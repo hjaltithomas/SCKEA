@@ -1,2 +1,2 @@
 # SCKEA
-Project team work assignments.
+Teamwork assignments.
