@@ -1,0 +1,107 @@
+ID,Date,Currency type, Amount ,Debit/Credit,Account,Transaction description,Amount in dkk,Month(str)
+18001,02/01/2017,DK," 7,000     ",debit,Account receivable,"T-shirts, hats, legs, shoes & jackets purchaces"," 7,000     ", January 
+18002,02/01/2017,DK," 7,000     ",credit,Cash Account,"T-shirts, hats, legs, shoes & jackets purchaces"," 7,000     ", January 
+18003,04/01/2017,Dk," 7,000     ",debit,Inventory Account,"T-shirts, hats, legs, shoes & jackets purchaces"," 7,000     ", January 
+18004,04/01/2017,DK," 7,000     ",credit,Account receivable,"T-shirts, hats, legs, shoes & jackets purchaces"," 7,000     ", January 
+18005,16/01/2017,DK," 14,000     ",debit,Cash Account,Costumes sold," 14,000     ", January 
+18006,17/01/2017,DK," 14,000     ",credit,Sales Account,Costumes sold," 14,000     ", January 
+18007,18/01/2017,DK," 4,200     ",debit,COGS Account,Costumes sold," 4,200     ", January 
+18008,18/01/2017,DK," 4,200     ",credit,Inventory Account,Costumes sold," 4,200     ", January 
+18009,02/02/2017,DK," 2,000     ",debit,General expences,Server and domain name expenses," 2,000     ", February 
+18010,02/02/2017,DK," 2,000     ",credit,Cash Account,Server and domain name expenses," 2,000     ", February 
+18011,20/02/2017,DK," 12,000     ",debit,Cash Account,Costumes sold," 12,000     ", February 
+18012,20/02/2017,DK," 12,000     ",credit,Sales Account,Costumes sold," 12,000     ", February 
+18013,20/02/2017,DK," 3,600     ",debit,COGS Account,Costumes sold," 3,600     ", February 
+18014,20/02/2017,DK," 3,600     ",credit,Inventory Account,Costumes sold," 3,600     ", February 
+18017,01/03/2017,DK," 4,500     ",debit,Account receivable,Hats restock," 4,500     ", March 
+18018,01/03/2017,DK," 4,500     ",credit,Cash Account,Hats restock," 4,500     ", March 
+18019,04/03/2017,DK," 4,500     ",debit,Inventory Account,Hats restock," 4,500     ", March 
+18020,04/03/2017,DK," 4,500     ",credit,Account receivable,Hats restock," 4,500     ", March 
+18021,09/03/2017,DK," 13,430     ",debit,Cash Account,Costumes sold," 13,430     ", March 
+18022,09/03/2017,DK," 13,430     ",credit,Sales Account,Costumes sold," 13,430     ", March 
+18023,09/03/2017,DK," 4,029     ",debit,COGS Account,Costumes sold," 4,029     ", March 
+18024,09/03/2017,DK," 4,029     ",credit,Inventory Account,Costumes sold," 4,029     ", March 
+18025,29/03/2017,EUR," 1,200     ",debit,General expences,Clothing Exhibition," 8,952     ", March 
+18026,29/03/2017,EUR," 1,200     ",credit,Cash Account,Clothing Exhibition," 8,952     ", March 
+18027,12/04/2017,DK," 1,000     ",debit,General expences,Postage costs," 1,000     ", April 
+18028,12/04/2017,DK," 1,000     ",credit,Cash Account,Postage costs," 1,000     ", April 
+18029,20/04/2017,DK," 11,000     ",debit,Cash Account,Costumes sold," 11,000     ", April 
+18030,20/04/2017,DK," 11,000     ",credit,Sales Account,Costumes sold," 11,000     ", April 
+18031,21/04/2017,DK," 3,300     ",debit,COGS Account,Costumes sold," 3,300     ", April 
+18032,21/04/2017,DK," 3,300     ",credit,Inventory Account,Costumes sold," 3,300     ", April 
+18033,08/05/2017,DK," 5,150     ",debit,Account receivable,Leggings restock," 5,150     ", May 
+18034,08/05/2017,DK," 5,150     ",credit,Cash Account,Leggings restock," 5,150     ", May 
+18035,10/05/2017,DK," 5,150     ",debit,Inventory Account,Leggings restock," 5,150     ", May 
+18036,10/05/2017,DK," 5,150     ",credit,Account receivable,Leggings restock," 5,150     ", May 
+18037,12/05/2017,DK," 11,800     ",debit,Cash Account,Costumes sold," 11,800     ", May 
+18038,12/05/2017,DK," 11,800     ",credit,Sales Account,Costumes sold," 11,800     ", May 
+18039,12/05/2017,DK," 3,540     ",debit,COGS Account,Costumes sold," 3,540     ", May 
+18040,12/05/2017,DK," 3,540     ",credit,Inventory Account,Costumes sold," 3,540     ", May 
+18041,02/06/2017,DK," 1,500     ",debit,General expences,Postage costs," 1,500     ", June 
+18042,02/06/2017,DK," 1,500     ",credit,Cash Account,Postage costs," 1,500     ", June 
+18043,07/06/2017,EUR, 800     ,debit,Account receivable,Shoes restock," 5,968     ", June 
+18044,07/06/2017,EUR, 800     ,credit,Cash Account,Shoes restock," 5,968     ", June 
+18045,15/06/2017,EUR, 800     ,debit,Inventory Account,Shoes restock," 5,968     ", June 
+18046,15/06/2017,EUR, 800     ,credit,Account receivable,Shoes restock," 5,968     ", June 
+18047,29/06/2017,DK," 13,500     ",debit,Cash Account,Costumes sold," 13,500     ", June 
+18048,29/06/2017,DK," 13,500     ",credit,Sales Account,Costumes sold," 13,500     ", June 
+18049,29/06/2017,DK," 4,050     ",debit,COGS Account,Costumes sold," 4,050     ", June 
+18050,29/06/2017,DK," 4,050     ",credit,Inventory Account,Costumes sold," 4,050     ", June 
+18051,02/07/2017,DK," 15,050     ",debit,Cash Account,Costumes sold," 15,050     ", July 
+18052,02/07/2017,DK," 15,050     ",credit,Sales Account,Costumes sold," 15,050     ", July 
+18053,03/07/2017,DK," 4,515     ",debit,COGS Account,Costumes sold," 4,515     ", July 
+18054,03/07/2017,DK," 4,515     ",credit,Inventory Account,Costumes sold," 4,515     ", July 
+18055,18/07/2017,DK, 500     ,debit,Sales Account,Costumes returned, 500     , July 
+18056,18/07/2017,DK, 500     ,credit,Cash Account,Costumes returned, 500     , July 
+18057,18/07/2017,DK, 150     ,debit,Inventory Account,Costumes returned, 150     , July 
+18058,18/07/2017,DK, 150     ,credit,COGS Account,Costumes returned, 150     , July 
+18059,20/07/2017,DK," 7,910     ",debit,Account receivable,Hankerchiefs & socks restock," 7,910     ", July 
+18060,20/07/2017,DK," 7,910     ",credit,Cash Account,Hankerchiefs & socks restock," 7,910     ", July 
+18061,28/07/2017,DK," 7,910     ",debit,Inventory Account,Hankerchiefs & socks restock," 7,910     ", July 
+18062,28/07/2017,DK," 7,910     ",credit,Account receivable,Hankerchiefs & socks restock," 7,910     ", July 
+18063,02/08/2017,DK," 12,650     ",debit,Cash Account,Costumes sold," 12,650     ", August 
+18064,02/08/2017,DK," 12,650     ",credit,Sales Account,Costumes sold," 12,650     ", August 
+18065,02/08/2017,DK," 3,795     ",debit,COGS Account,Costumes sold," 3,795     ", August 
+18066,02/08/2017,DK," 3,795     ",credit,Inventory Account,Costumes sold," 3,795     ", August 
+18067,17/08/2017,DK, 800     ,debit,General expences,Postage costs, 800     , August 
+18068,17/08/2017,DK, 800     ,credit,Cash Account,Postage costs, 800     , August 
+18069,22/08/2017,DK," 4,800     ",debit,Account receivable,Jackets & shirts restock," 4,800     ", August 
+18070,22/08/2017,DK," 4,800     ",credit,Cash Account,Jackets & shirts restock," 4,800     ", August 
+18071,29/08/2017,DK," 4,800     ",debit,Inventory Account,Jackets & shirts restock," 4,800     ", August 
+18072,29/08/2017,DK," 4,800     ",credit,Account receivable,Jackets & shirts restock," 4,800     ", August 
+18073,07/09/2017,DK," 13,250     ",debit,Cash Account,Costumes sold," 13,250     ", September 
+18074,07/09/2017,DK," 13,250     ",credit,Sales Account,Costumes sold," 13,250     ", September 
+18075,07/09/2017,DK," 3,975     ",debit,COGS Account,Costumes sold," 3,975     ", September 
+18076,07/09/2017,DK," 3,975     ",credit,Inventory Account,Costumes sold," 3,975     ", September 
+18077,19/09/2017,DK, 850     ,debit,General expences,Postage costs, 850     , September 
+18078,19/09/2017,DK, 850     ,credit,Cash Account,Postage costs, 850     , September 
+18079,09/10/2017,DK," 8,540     ",debit,Cash Account,Costumes sold," 8,540     ", October 
+18080,09/10/2017,DK," 8,540     ",credit,Sales Account,Costumes sold," 8,540     ", October 
+18081,09/10/2017,DK," 2,562     ",debit,COGS Account,Costumes sold," 2,562     ", October 
+18082,09/10/2017,DK," 2,562     ",credit,Inventory Account,Costumes sold," 2,562     ", October 
+18083,14/10/2017,DK, 100     ,debit,Sales Account,Costumes returned, 100     , October 
+18084,14/10/2017,DK, 100     ,credit,Cash Account,Costumes returned, 100     , October 
+18085,14/10/2017,DK, 30     ,debit,Inventory Account,Costumes returned, 30     , October 
+18086,14/10/2017,DK, 30     ,credit,COGS Account,Costumes returned, 30     , October 
+18087,03/11/2017,DK," 15,400     ",debit,Cash Account,Costumes sold," 15,400     ", November 
+18088,03/11/2017,DK," 15,400     ",credit,Sales Account,Costumes sold," 15,400     ", November 
+18089,03/11/2017,DK," 4,620     ",debit,COGS Account,Costumes sold," 4,620     ", November 
+18090,03/11/2017,DK," 4,620     ",credit,Inventory Account,Costumes sold," 4,620     ", November 
+18091,15/11/2017,DK," 5,320     ",debit,General expences,Clothing Exhibition," 5,320     ", November 
+18092,15/11/2017,DK," 5,320     ",credit,Cash Account,Clothing Exhibition," 5,320     ", November 
+18093,24/11/2017,DK," 5,470     ",debit,Account receivable,Glasses & belts restock & shoes," 5,470     ", November 
+18094,24/11/2017,DK," 5,470     ",credit,Cash Account,Glasses & belts restock & shoes," 5,470     ", November 
+18095,28/11/2017,DK," 5,470     ",debit,Inventory Account,Glasses & belts restock & shoes," 5,470     ", November 
+18096,28/11/2017,DK," 5,470     ",credit,Account receivable,Glasses & belts restock & shoes," 5,470     ", November 
+18097,06/12/2017,DK," 8,760     ",debit,Cash Account,Costumes sold," 8,760     ", December 
+18098,06/12/2017,DK," 8,760     ",credit,Sales Account,Costumes sold," 8,760     ", December 
+18099,06/12/2017,DK," 2,628     ",debit,COGS Account,Costumes sold," 2,628     ", December 
+18100,06/12/2017,DK," 2,628     ",credit,Inventory Account,Costumes sold," 2,628     ", December 
+18101,12/12/2017,DK," 2,413     ",debit,Account receivable,Makeup restock," 2,413     ", December 
+18102,12/12/2017,DK," 2,413     ",credit,Cash Account,Makeup restock," 2,413     ", December 
+18103,18/12/2017,DK," 2,413     ",debit,Inventory Account,Makeup restock," 2,413     ", December 
+18104,18/12/2017,DK," 2,413     ",credit,Account receivable,Makeup restock," 2,413     ", December 
+18105,21/12/2017,DK," 8,755     ",debit,Cash Account,Costumes sold," 8,755     ", December 
+18106,21/12/2017,DK," 8,755     ",credit,Sales Account,Costumes sold," 8,755     ", December 
+18107,21/12/2017,DK," 2,627     ",debit,COGS Account,Costumes sold," 2,627     ", December 
+18108,21/12/2017,DK," 2,627     ",credit,Inventory Account,Costumes sold," 2,627     ", December 
