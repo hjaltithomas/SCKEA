@@ -15,7 +15,11 @@ def print_menu():
     print("1. Trial balance")
     print("2. Balancing the accounts")
     print("3. Profit for each month")
+<<<<<<< HEAD
     print("4. Graff")
+=======
+    print("4. Plotted profit graph")
+>>>>>>> db6a049f34d1024eea6230de90bfd2817848cb30
     print("5. Exit")
     print(37* "-")
 
@@ -35,7 +39,11 @@ while loop == True:
         print("Profit for each month  has been selected")
     elif choice == "4":
         os.system('cls')
+<<<<<<< HEAD
         print("Graff has been selected")
+=======
+        print("Plotted profit graph has been selected")
+>>>>>>> db6a049f34d1024eea6230de90bfd2817848cb30
     elif choice == "5":
         os.system('cls')
         print("Menu  has been selected")
